@@ -83,13 +83,17 @@ Links
 
 Task 1-
 Github deployment link- https://satyadutt2580.github.io/OCTANETLandingPageProject/
+
 Github front link- https://console.gitfront.io/
+
 Netlify deployment link- https://deluxe-horse-e21415.netlify.app/
 
 
 Task2- 
 Github deployment link- https://satyadutt2580.github.io/OctanetWebDevelopment/
+
 Github front link- https://console.gitfront.io/
+
 Netlify deployment link- https://luxury-meerkat-3cd1a0.netlify.app/
 
 Preparation Steps:
