@@ -82,15 +82,15 @@ Prepare the repository for final submission.
 Links
 
 Task 1-
-https://satyadutt2580.github.io/OCTANETLandingPageProject/
-https://console.gitfront.io/
-https://deluxe-horse-e21415.netlify.app/
+Github deployment link- https://satyadutt2580.github.io/OCTANETLandingPageProject/
+Github front link- https://console.gitfront.io/
+Netlify deployment link- https://deluxe-horse-e21415.netlify.app/
 
 
 Task2- 
-https://satyadutt2580.github.io/OctanetWebDevelopment/
-https://console.gitfront.io/
-https://luxury-meerkat-3cd1a0.netlify.app/
+Github deployment link- https://satyadutt2580.github.io/OctanetWebDevelopment/
+Github front link- https://console.gitfront.io/
+Netlify deployment link- https://luxury-meerkat-3cd1a0.netlify.app/
 
 Preparation Steps:
  Determine application's purpose
